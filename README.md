@@ -13,12 +13,12 @@ Implemented algorithms:
 
 Features:
 1) Colored representation of step being executed.<br>
-&nbsp; &nbsp  1.1) Blue:default<br>
-  1.2) Yellow: Being compared
-  1.3) Red: Identified as in incorrect position and to be moved
-  1.4) Green: In correct position
-2) 3 Controls for visualizations
-  2.1) Speed of visualization (5 speed levels)
-  2.2) Data size ()
-  2.3) Generation of new data (Randomly generate new data).
-4) Time and Space complexity of algorithm being visualized.
+&nbsp; &nbsp;  1.1) Blue:default<br>
+&nbsp; &nbsp;  1.2) Yellow: Being compared<br>
+&nbsp; &nbsp;  1.3) Red: Identified as in incorrect position and to be moved<br>
+&nbsp; &nbsp;  1.4) Green: In correct position<br>
+2) 3 Controls for visualizations<br>
+&nbsp; &nbsp;  2.1) Speed of visualization (5 speed levels)<br>
+&nbsp; &nbsp;  2.2) Data size ()<br>
+&nbsp; &nbsp;  2.3) Generation of new data (Randomly generate new data).<br>
+4) Time and Space complexity of algorithm being visualized.<br>
